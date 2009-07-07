@@ -1,0 +1,20 @@
+[Mon Jul 06 12:05:49 +0100 2009] INFO  Rails : 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-07-06 12:05:49) [GET]
+[Mon Jul 06 12:05:49 +0100 2009] ERROR  Rails : <Hash> exceptionNo route matches "/" with {:method=>:get}request#<ActionController::Request:0x25da230>
+[Mon Jul 06 12:05:49 +0100 2009] INFO  Rails : Rendering rescues/layout (not_found)
+[Mon Jul 06 12:07:30 +0100 2009] INFO  Rails : 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-07-06 12:07:30) [GET]
+[Mon Jul 06 12:07:30 +0100 2009] ERROR  Rails : <Hash> exceptionNo route matches "/" with {:method=>:get}request#<ActionController::Request:0x259575c>
+[Mon Jul 06 12:07:30 +0100 2009] INFO  Rails : Rendering rescues/layout (not_found)
+[Mon Jul 06 12:07:48 +0100 2009] INFO  Rails : 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-07-06 12:07:48) [GET]
+[Mon Jul 06 12:07:48 +0100 2009] ERROR  Rails : <Hash> exceptionNo route matches "/" with {:method=>:get}request#<ActionController::Request:0x2571668>
+[Mon Jul 06 12:07:48 +0100 2009] INFO  Rails : Rendering rescues/layout (not_found)
+[Mon Jul 06 12:08:04 +0100 2009] INFO  Rails : 
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-07-06 12:08:04) [GET]
+[Mon Jul 06 12:08:04 +0100 2009] ERROR  Rails : <Hash> exceptionNo route matches "/" with {:method=>:get}request#<ActionController::Request:0x254d574>
+[Mon Jul 06 12:08:04 +0100 2009] INFO  Rails : Rendering rescues/layout (not_found)
